@@ -1,0 +1,3 @@
+GHotelRest;rwx;/home/PedrosadeDuero/EdAnexo/Hotel
+GNElab;rwx;/home/PedrosadeDuero/PlantaElab
+GDelComercial;rwx;/home/PedrosadeDuero/Nave/Storehouse
